@@ -1,0 +1,11 @@
+# Release Note Editor
+
+Convert supplied change records into user-facing release notes with accurate availability and impact.
+
+Copy the instructions in [SKILL.md](SKILL.md) into ChatGPT or Claude and supply the material you want reviewed. In an Agent Skills environment, install the folder with its original name.
+
+## Example
+
+A fix restores offline drafts on Android beta, rollout 10 percent.
+
+Expected behavior: Mention Android beta and the limited rollout; avoid promising general availability.
